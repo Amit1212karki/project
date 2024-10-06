@@ -4,3 +4,7 @@ def add():
   y = 5
   z = x+y
   print(z)
+
+def add(x,y): // second commit
+  print(x+y)
+add(1,5)
